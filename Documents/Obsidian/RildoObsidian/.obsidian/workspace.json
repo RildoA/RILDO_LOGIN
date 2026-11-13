@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "27814b95be693e39",
+    "type": "split",
+    "children": [
+      {
+        "id": "d74f94fd35a04e0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d41818b2b54c909b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67b9caf119f40b53",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d9abf4668242e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4eaefe911b19b76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e1bce4d1f04bfec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b13efc4220d55d03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac66b143e1e925f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d3dff033fc4ef6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295535ff1f181b38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e5d18fc25e10562a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9b6f68fcc5199764",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "608050e7980e2e48",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7114c5f2e1e939c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d41818b2b54c909b",
+  "lastOpenFiles": [
+    "Programacao/Node+TS+Express+Prisma/Prisma.md",
+    "Programacao/Node+TS+Express+Prisma/Instalação.md",
+    "Programacao/Node+TS+Express+Prisma/DB Testing.md",
+    "Programacao/Node+TS+Express+Prisma/cookies.md",
+    "Programacao/NestJs/Docs/Decorators list.md",
+    "Programacao/NestJs/Docs/DB (PostgreSQL + Prisma).md",
+    "Programacao/NestJs/Docs/Controllers.md",
+    "Programacao/NestJs/Docs/Middlewares.md",
+    "Programacao/NestJs/Docs/Modules.md",
+    "Programacao/NestJs/Docs/Providers.md",
+    "Programacao/NestJs/Docs/índice.md",
+    "Programacao/NestJs/Docs/Installations.md",
+    "Programacao/NestJs/Docs/First Steps.md",
+    "Untitled.md",
+    "ITEL/Exames(Resumos)/EMP/Unidade 1.md",
+    "ITEL/Exames(Resumos)/EMP/Unidade 2.md",
+    "Programacao/NestJs/freeCodeCamp/1hora/NOtes.md",
+    "ITEL/Exames(Resumos)/EMP",
+    "ITEL/Exames(Resumos)",
+    "Untitled 1.md",
+    "Programacao/NestJs/freeCodeCamp/1hora",
+    "Programacao/NestJs/freeCodeCamp",
+    "Programacao/NestJs/Docs",
+    "Programacao/NestJs/Docs/Doubts/Search about....md",
+    "Programacao/Laravel/Middlewares.md",
+    "Programacao/Laravel/User Authentication.md",
+    "Programacao/Laravel/Parameters in route().md",
+    "Programacao/Laravel/Group routes.md",
+    "Programacao/NestJs/Docs/Doubts/Decorators.md",
+    "Programacao/NestJs/Docs/Doubts",
+    "Programacao/NestJs"
+  ]
+}
